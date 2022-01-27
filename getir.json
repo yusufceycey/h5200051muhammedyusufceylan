@@ -1,0 +1,54 @@
+{
+	"getirUrunleri": [
+
+		{
+			"urunID": 1,
+			"urunAdi": "Kuzeyden Su",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/h5200051muhammedyusufceylan/main/su.jpeg",
+			"urunAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Kuzeyden Su</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Kuzeyden Su Hakkinda</h1><p>Basketbol Milli Takimlar ve Voleybol Milli Takimlar Resmi Su Sponsoru Kuzeyden </p></body></html>"
+
+		},
+
+		{
+			"urunID": 2,
+			"urunAdi": "Coca Cola 1L",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/h5200051muhammedyusufceylan/main/kola.jpeg",
+			"urunAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Coca Cola 1L</title><style>body {font- family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Coca Cola 1L Hakkinda</h1><p>Coca-Cola, benzersiz lezzeti ile sizi serinletir ve aniniza keyif katar </p></body></html>"
+
+		},
+
+		{
+			"urunID": 3,
+			"urunAdi": "Doritos Nacho Peynirli",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/h5200051muhammedyusufceylan/main/cips.png",
+			"urunAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Doritos Nacho Peynirli</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Doritos Nacho Peynirli Hakkinda</h1><p>Doritos Nacho Peynirli Super Boy, enfes peynirli aromasi ve baharatli lezzeti ile atistirmalik anlarinin vazgecilmez lezzetlerinden biri olacak. Doritos cipsleri son kullanma tarihine kadar kuru ve serin bir ortamda saklamalisiniz</p></body></html>"
+
+		},
+
+		{
+			"urunID": 4,
+			"urunAdi": "Hertane Kuru Sele Zeytin",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/h5200051muhammedyusufceylan/main/zeytin.jpeg",
+			"urunAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Hertane Kuru Sele Zeytin</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Hertane Kuru Sele Zeytin Hakkinda</h1><p>400 g Gemlik hasatindan toplanan dogal siyah zeytinlerden olusur.</p></body></html>"
+
+		},
+
+		{
+			"urunID": 5,
+			"urunAdi": "Colgate Optik White",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/h5200051muhammedyusufceylan/main/macun.jpeg",
+			"urunAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Colgate Optik White</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Colgate Optik White Hakkinda</h1><p>Klinik olarak kanitlanmis beyazlatici teknolojisi yuzey lekelerini gidermeye yardimci olur.</p></body></html>"
+
+
+		},
+		{
+			"urunID": 6,
+			"urunAdi": "Solo Kagit Havlu",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/h5200051muhammedyusufceylan/main/solo.jpeg",
+			"urunAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Solo Kagit Havlu</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Solo Kagit Havlu Hakkinda</h1><p>Solo Pecete yenilendi! Sofralarin vazgecilmezi yumusacik Solo pecete, en guzel yemeklerinize eslik eder.</p></body></html>"
+
+		}
+
+	]
+
+}
