@@ -1,0 +1,54 @@
+{
+	"programlamaDilleri": [
+
+		{
+			"dilID": 1,
+			"dilAdi": "C",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/yusufceylan/main/c.png",
+			"dilAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>C</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>C Programlama Dili Hakkinda</h1><p>AT&amp;T Bell laboratuvarlarında, Ken Thompson ve Dennis Ritchie tarafından UNIX Isletim Sistemi ni gelistirebilmek amaciyla B dilinden turetilmis yapisal bir programlama dilidir. Gelistirilme tarihi 1972 olmasina ragmen yayilip yayginlasmasi Brian Kernighan ve Dennis M. Ritchie tarafindan yayimlanan C Programlama Dili kitabindan sonra hizlanmistir.</p></body></html>"
+
+		},
+
+		{
+			"dilID": 2,
+			"dilAdi": "Python",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/yusufceylan/main/python.png",
+			"dilAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Python</title><style>body {font- family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Python Programlama Dili Hakkinda</h1><p>Python, nesne yonelimli, yorumlamali, birimsel (moduler) ve etkilesimli yuksek seviyeli bir programlama dilidir. Girintilere dayali basit soz dizimi, dilin ogrenilmesini ve akilda kalmasini kolaylastirir. Bu da ona soz diziminin ayrintilari ile vakit yitirmeden programlama yapilmaya baslanabilen bir dil olma ozelligi kazandirir.</p></body></html>"
+
+		},
+
+		{
+			"dilID": 3,
+			"dilAdi": "Java",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/yusufceylan/main/java.png",
+			"dilAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Java</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Java Programlama Dili Hakkinda</h1><p>Java, Sun Microsystems muhendislerinden James Gosling tarafindan gelistirilmeye baslanmis acik kaynak kodlu, nesneye yonelik, zeminden bagimsiz, yuksek verimli, cok islevli, yuksek seviye, adim adim isletilen (yorumlanan) bir dildir.</p></body></html>"
+
+		},
+
+		{
+			"dilID": 4,
+			"dilAdi": "JavaScript",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/yusufceylan/main/javascript.png",
+			"dilAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>JavaScript</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>JavaScript Programlama Dili Hakkinda</h1><p>JavaScript, yaygin olarak web tarayicilarinda kullanilmakta olan dinamik bir programlama dilidir. JavaScript ile yazilan istemci tarafi betikler sayesinde tarayicinin kullaniciyla etkilesimde bulunmasi, tarayicinin kontrol edilmesi, asenkron bir sekilde sunucu ile iletisime gecilmesi ve web sayfasi iceriginin degistirilmesi gibi islevler saglanir. JavaScript, Node.js gibi platformlar sayesinde sunucu tarafinda da yaygin olarak kullanilmaktadir.</p></body></html>"
+
+		},
+
+		{
+			"dilID": 5,
+			"dilAdi": "Kotlin",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/yusufceylan/main/kotlin.png",
+			"dilAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Kotlin</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Kotlin Programlama Dili Hakkinda</h1><p>Kotlin, Java sanal makinesi (JVM) uzerinde calisan ve ayrica JavaScript kaynak koduna derlenebilir, statik tipli bir programlama dilidir. Ilk gelistirme Sankt-Peterburg, Rusya merkezli JetBrains programcilari tarafindan yapilmistir.</p></body></html>"
+
+
+		},
+		{
+			"dilID": 6,
+			"dilAdi": "Dart",
+			"resimURL": "https://raw.githubusercontent.com/yusufceycey/yusufceylan/main/dart.png",
+			"dilAciklamasiHTML": "<!DOCTYPE HTML><html><head><title>Dart</title><style>body {font-family:arial;background-color:white;border:2px solid;border-color:grey;border-radius:4px;}</style></head><body><h1>Dart Programlama Dili Hakkinda</h1><p>aDart, ilk kez Google tarafindan gelistirilen ve daha sonralari ECMA tarafindan standart (ECMA-408) haline getirilen acik kaynakli ve genel-amacli bir programlama dilidir. Dart dili kullanilarak web, sunucu, mobil uygulamalar ve IoT cihazlari gelistirilebilir.</p></body></html>"
+
+		}
+
+	]
+
+}
